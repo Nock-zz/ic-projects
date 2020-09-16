@@ -1,5 +1,8 @@
-**TODO: Describe the project**
+**ic-projects**
+
+These projects are from the dfinity tutorials.
+hello
+hello-welcome
 
 
-
-See:<link>
+See: https://sdk.dfinity.org
