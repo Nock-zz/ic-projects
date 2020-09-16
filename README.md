@@ -2,7 +2,7 @@
 
 These projects are from the dfinity tutorials.
 hello
-hello-welcome
+explore-hello
 
 
 See: https://sdk.dfinity.org
